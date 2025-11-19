@@ -1,22 +1,22 @@
 Crop_Stage,Crop_Disease,Temperature(°C),Humidity(%),Soil_Moisture(%),Rainfall(mm),Soil_pH
 Flowering Bud (Squaring) Stage,Grey Mildew,32.4,62.8,12.5,113.5,6.67
 Vegetative Growth,Grey Mildew,37.6,78.3,15.3,69.1,6.37
-Flowering Bud (Squaring) Stage,Anthracnose,24.1,45.9,23.1,104.0,6.09
+Flowering Bud (Squaring) Stage,Anthracnose,24.1,45.9,23.1,104,6.09
 Flowering Bud (Squaring) Stage,Leaf Curl Virus,31.2,68.7,11.2,137.2,6.34
 Seeding Establishment,Damping-off,37.5,77.3,17.6,55.6,7.37
 Flowering Bud (Squaring) Stage,Leaf Curl Virus,30.9,46.4,32.7,81.4,7.33
-Seeding Establishment,Anthracnose,31.7,52.4,34.2,164.0,7.88
+Seeding Establishment,Anthracnose,31.7,52.4,34.2,164,7.88
 Flowering Bud (Squaring) Stage,Anthracnose,26.7,46.8,18.1,102.2,6.54
 Flowering and Boll Development Stage,Root Rot,37.5,69.3,16.9,87.4,6.33
 Germination Stage,Damping-off,34.8,52.9,10.1,170.5,7.41
 Vegetative Growth,Damping-off,32.5,82.1,26.3,186.4,7.7
 Flowering Bud (Squaring) Stage,Damping-off,24.9,57.4,18.1,156.7,7.28
 Vegetative Growth,Damping-off,29.4,83.9,31.2,155.5,6.47
-Vegetative Growth,Fusarium Wilt,30.0,46.0,12.7,45.0,7.27
-Flowering Bud (Squaring) Stage,Anthracnose,26.0,69.2,23.5,72.5,7.89
-Vegetative Growth,Anthracnose,36.3,70.0,17.4,56.9,6.91
-Flowering Bud (Squaring) Stage,Anthracnose,36.4,58.0,13.1,97.0,7.81
-Germination Stage,Bacterial Blight,30.0,77.7,31.5,41.1,7.02
+Vegetative Growth,Fusarium Wilt,30,46,12.7,45,7.27
+Flowering Bud (Squaring) Stage,Anthracnose,26,69.2,23.5,72.5,7.89
+Vegetative Growth,Anthracnose,36.3,70,17.4,56.9,6.91
+Flowering Bud (Squaring) Stage,Anthracnose,36.4,58,13.1,97,7.81
+Germination Stage,Bacterial Blight,30,77.7,31.5,41.1,7.02
 Germination Stage,Damping-off,25.7,58.5,33.6,91.7,7.04
 Germination Stage,Damping-off,24.9,55.2,16.2,151.4,7.42
 Flowering and Boll Development Stage,Aphid Infestation,24.5,69.4,22.6,48.2,6.56
@@ -25,77 +25,77 @@ Vegetative Growth,Bacterial Blight,27.4,77.1,21.8,197.3,6.8
 Germination Stage,Leaf Curl Virus,31.1,72.8,31.5,92.2,6.44
 Seeding Establishment,Fusarium Wilt,27.2,70.8,14.4,150.6,6.77
 Seeding Establishment,Damping-off,33.5,74.4,15.2,126.6,7.39
-Flowering Bud (Squaring) Stage,Aphid Infestation,31.8,66.2,16.0,54.9,7.79
-Flowering and Boll Development Stage,Damping-off,27.9,73.0,31.2,177.0,6.81
-Germination Stage,Leaf Curl Virus,25.2,51.5,32.5,137.0,6.02
+Flowering Bud (Squaring) Stage,Aphid Infestation,31.8,66.2,16,54.9,7.79
+Flowering and Boll Development Stage,Damping-off,27.9,73,31.2,177,6.81
+Germination Stage,Leaf Curl Virus,25.2,51.5,32.5,137,6.02
 Germination Stage,Damping-off,24.1,51.4,23.7,150.7,7.3
 Germination Stage,Damping-off,24.3,64.8,14.5,98.6,7.49
-Vegetative Growth,Aphid Infestation,32.0,48.7,19.2,82.4,6.49
+Vegetative Growth,Aphid Infestation,32,48.7,19.2,82.4,6.49
 Flowering and Boll Development Stage,Anthracnose,36.7,62.4,18.8,143.2,7.34
 Germination Stage,Leaf Curl Virus,34.1,56.2,10.6,143.3,6.35
 Flowering Bud (Squaring) Stage,Anthracnose,29.2,45.6,33.2,108.5,7.93
 Vegetative Growth,Leaf Curl Virus,28.1,60.4,31.3,90.7,6.34
 Germination Stage,Fusarium Wilt,35.8,82.2,11.8,73.4,7.34
 Seeding Establishment,Root Rot,28.5,78.9,13.4,153.4,7.11
-Seeding Establishment,Root Rot,35.3,79.7,32.8,121.8,7.0
-Flowering and Boll Development Stage,Damping-off,25.0,60.9,11.3,181.9,6.06
+Seeding Establishment,Root Rot,35.3,79.7,32.8,121.8,7
+Flowering and Boll Development Stage,Damping-off,25,60.9,11.3,181.9,6.06
 Seeding Establishment,Aphid Infestation,32.1,46.4,21.6,126.8,6.57
 Seeding Establishment,Anthracnose,27.5,46.6,17.6,125.9,6.65
 Flowering and Boll Development Stage,Fusarium Wilt,25.2,47.1,23.3,126.5,7.27
-Flowering Bud (Squaring) Stage,Leaf Curl Virus,34.0,46.6,20.0,109.4,7.49
+Flowering Bud (Squaring) Stage,Leaf Curl Virus,34,46.6,20,109.4,7.49
 Seeding Establishment,Root Rot,37.5,78.4,27.4,105.4,6.35
 Germination Stage,Aphid Infestation,31.7,73.6,26.5,84.8,7.91
 Flowering and Boll Development Stage,Grey Mildew,29.9,54.9,18.9,161.3,6.03
 Flowering Bud (Squaring) Stage,Fusarium Wilt,24.6,79.2,27.6,115.9,6.2
-Flowering and Boll Development Stage,Leaf Curl Virus,26.4,62.4,20.0,138.5,7.27
+Flowering and Boll Development Stage,Leaf Curl Virus,26.4,62.4,20,138.5,7.27
 Seeding Establishment,Fusarium Wilt,24.2,82.3,22.5,126.3,7.37
 Seeding Establishment,Leaf Curl Virus,32.2,82.6,24.4,102.1,7.29
-Germination Stage,Bacterial Blight,37.2,60.4,34.0,184.9,6.39
-Flowering and Boll Development Stage,Grey Mildew,25.3,72.3,11.8,91.0,7.69
+Germination Stage,Bacterial Blight,37.2,60.4,34,184.9,6.39
+Flowering and Boll Development Stage,Grey Mildew,25.3,72.3,11.8,91,7.69
 Seeding Establishment,Bacterial Blight,27.9,49.7,27.4,140.6,7.75
-Flowering Bud (Squaring) Stage,Grey Mildew,37.5,66.9,20.6,131.0,7.15
+Flowering Bud (Squaring) Stage,Grey Mildew,37.5,66.9,20.6,131,7.15
 Vegetative Growth,Root Rot,27.5,68.2,31.7,129.9,6.48
 Flowering and Boll Development Stage,Damping-off,27.3,60.1,23.4,119.4,6.78
 Flowering and Boll Development Stage,Damping-off,24.7,83.3,31.2,96.8,7.91
 Flowering Bud (Squaring) Stage,Root Rot,32.8,62.9,17.3,92.6,7.35
 Flowering Bud (Squaring) Stage,Fusarium Wilt,34.9,49.5,33.3,195.9,7.99
-Seeding Establishment,Bacterial Blight,36.4,59.0,12.9,62.9,7.52
-Flowering Bud (Squaring) Stage,Grey Mildew,35.7,62.0,15.6,103.5,7.78
+Seeding Establishment,Bacterial Blight,36.4,59,12.9,62.9,7.52
+Flowering Bud (Squaring) Stage,Grey Mildew,35.7,62,15.6,103.5,7.78
 Seeding Establishment,Grey Mildew,25.2,84.5,19.4,99.3,7.63
 Germination Stage,Leaf Curl Virus,29.3,48.3,29.4,129.3,6.85
 Seeding Establishment,Fusarium Wilt,30.1,55.1,20.1,131.4,7.48
-Flowering and Boll Development Stage,Fusarium Wilt,34.4,68.3,34.1,100.0,6.57
+Flowering and Boll Development Stage,Fusarium Wilt,34.4,68.3,34.1,100,6.57
 Germination Stage,Grey Mildew,37.5,45.5,34.2,46.9,7.78
 Flowering and Boll Development Stage,Leaf Curl Virus,31.8,83.8,23.1,140.7,7.39
-Germination Stage,Anthracnose,32.2,81.0,11.1,85.0,7.9
+Germination Stage,Anthracnose,32.2,81,11.1,85,7.9
 Flowering Bud (Squaring) Stage,Leaf Curl Virus,28.7,51.8,26.2,102.1,6.46
 Flowering Bud (Squaring) Stage,Damping-off,27.6,63.1,10.8,84.8,6.82
 Flowering and Boll Development Stage,Grey Mildew,37.2,61.7,24.5,187.1,6.17
-Seeding Establishment,Fusarium Wilt,29.8,76.1,22.0,197.6,6.75
+Seeding Establishment,Fusarium Wilt,29.8,76.1,22,197.6,6.75
 Seeding Establishment,Anthracnose,35.6,67.8,11.6,45.9,6.27
 Flowering and Boll Development Stage,Anthracnose,33.7,66.4,28.7,186.1,7.17
 Flowering and Boll Development Stage,Root Rot,35.9,54.9,21.3,60.7,7.91
-Flowering and Boll Development Stage,Anthracnose,36.3,75.3,11.2,83.0,6.04
+Flowering and Boll Development Stage,Anthracnose,36.3,75.3,11.2,83,6.04
 Seeding Establishment,Anthracnose,34.8,65.8,31.3,128.3,7.12
 Vegetative Growth,Damping-off,25.9,46.2,28.9,139.2,7.41
 Vegetative Growth,Anthracnose,32.6,84.2,25.2,141.9,7.11
-Vegetative Growth,Leaf Curl Virus,31.7,63.0,32.8,87.7,7.05
+Vegetative Growth,Leaf Curl Virus,31.7,63,32.8,87.7,7.05
 Germination Stage,Grey Mildew,26.1,82.1,22.3,81.3,6.92
 Seeding Establishment,Grey Mildew,28.9,53.4,24.5,94.7,7.07
-Vegetative Growth,Aphid Infestation,33.0,52.3,18.6,183.5,6.95
+Vegetative Growth,Aphid Infestation,33,52.3,18.6,183.5,6.95
 Flowering and Boll Development Stage,Grey Mildew,26.7,46.6,14.2,84.6,6.35
 Flowering and Boll Development Stage,Damping-off,31.5,59.2,32.4,60.6,6.66
-Vegetative Growth,Root Rot,35.2,70.1,12.0,179.8,7.84
+Vegetative Growth,Root Rot,35.2,70.1,12,179.8,7.84
 Flowering and Boll Development Stage,Root Rot,36.2,48.4,24.9,197.8,7.07
 Seeding Establishment,Anthracnose,30.5,74.9,10.9,80.4,7.43
-Vegetative Growth,Root Rot,29.0,60.9,12.6,158.0,6.36
+Vegetative Growth,Root Rot,29,60.9,12.6,158,6.36
 Germination Stage,Fusarium Wilt,25.2,66.4,15.8,94.9,6.95
-Seeding Establishment,Damping-off,31.0,48.5,23.4,133.9,7.49
-Germination Stage,Root Rot,28.0,59.5,26.1,131.3,6.71
+Seeding Establishment,Damping-off,31,48.5,23.4,133.9,7.49
+Germination Stage,Root Rot,28,59.5,26.1,131.3,6.71
 Flowering and Boll Development Stage,Grey Mildew,37.1,45.3,15.6,98.5,6.98
 Vegetative Growth,Fusarium Wilt,35.8,47.1,10.5,151.5,7.99
 Seeding Establishment,Leaf Curl Virus,36.8,45.2,34.4,118.5,7.45
-Germination Stage,Fusarium Wilt,31.5,64.1,31.0,72.8,7.94
+Germination Stage,Fusarium Wilt,31.5,64.1,31,72.8,7.94
 Flowering Bud (Squaring) Stage,Leaf Curl Virus,31.1,54.7,12.9,137.7,6.58
 Flowering and Boll Development Stage,Grey Mildew,31.5,47.1,18.4,61.5,6.13
 Flowering Bud (Squaring) Stage,Grey Mildew,33.6,48.5,13.5,40.4,6.23
